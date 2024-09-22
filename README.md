@@ -6,10 +6,8 @@ The Cold Email Generator is a powerful tool designed for service-based businesse
 ### 1. Get the API Key
 To get started, first obtain an API key from **Groq**: [Groq API Key](https://console.groq.com/keys). Once the API key is created, update the value of `GROQ_API_KEY` inside the `.env` file located at `app/.env`
 
-2. To get started, first install the dependencies using:
-   ```bash
-   pip install -r requirements.txt
+## 2. Install Dependencies
+To get started, first install the dependencies using:
+```bash
+pip install -r requirements.txt
 
-3. To start the Streamlit app, use the following command:
-   ```bash
-   streamlit run app/main.py
