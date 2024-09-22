@@ -8,6 +8,12 @@ To get started, first obtain an API key from **Groq**: [Groq API Key](https://co
 
 ## 2. Install Dependencies
 To get started, first install the dependencies using:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+  
+## 3. Running the App
+To start the Streamlit app, use the following command:
+   '''bash
+   streamlit run app/main.py
+
 
