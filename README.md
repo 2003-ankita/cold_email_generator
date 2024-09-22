@@ -20,6 +20,7 @@ To start the Streamlit app, use the following command:
 
 ```bash
 streamlit run app/main.py
+```
 
 
 
