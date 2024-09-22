@@ -3,7 +3,7 @@ The Cold Email Generator is a powerful tool designed for service-based businesse
 
 ## Set-up
 
-### 1. Get the API Key
+## 1. Get the API Key
 To get started, you’ll need an API key from **Groq**. You can generate your API key by following this link:  
 **[Groq API Key](https://console.groq.com/keys)**.  
 Once you have the API key, update the value of `GROQ_API_KEY` inside the `.env` file located in the `app/` directory.
