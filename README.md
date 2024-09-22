@@ -13,10 +13,17 @@ To get started, first install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
-3. Running the App
+## 3. Run the Streamlit App
 To start the Streamlit app, use the following command:
+
+```bash
 streamlit run app/main.py
+
+
+
+
 
 
 
